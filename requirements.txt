@@ -1,0 +1,18 @@
+# Core Dependencies
+requests
+pandas
+numpy
+
+# Visualization & Dashboard
+streamlit
+plotly
+matplotlib
+seaborn
+
+# Utilities
+python-dotenv
+
+# Optional but recommended
+pypdf2
+
+openpyxl

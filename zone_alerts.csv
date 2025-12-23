@@ -1,0 +1,8 @@
+timestamp,zone_id,zone_name,severity,description,recommended_action
+2024-03-15 08:00:00,library,Main Library,high,High HVAC consumption despite low occupancy.,Investigate HVAC system for potential malfunctions or inefficient operation.
+2024-03-15 10:00:00,engineering,Engineering Building,high,High consumption detected that is 1.19 times the hourly average with non-zero occupancy.,Investigate possible inefficiencies or misuse of energy.
+2024-03-15 12:00:00,engineering,Engineering Building,high,Higher consumption than usual with higher occupancy,"Investigate the cause for increased energy consumption. Check HVAC, lighting, and other appliances."
+2024-03-15 15:00:00,engineering,Engineering Building,high,High energy consumption (1.99x) detected during a period of increased occupancy.,Investigate the cause for this increase in energy consumption to determine if there are any malfunctions or wasteful situations.
+2024-03-15 15:00:00,library,Main Library,medium,High consumption (1.44x higher than hourly average) with normal occupancy,Investigate potential energy inefficiencies or unnecessary load.
+2024-03-15 18:00:00,engineering,Engineering Building,high,High energy consumption (2.35x) detected during non-peak occupancy hours.,Investigate the cause of high energy consumption during non-peak occupancy hours.
+2024-03-15 18:00:00,library,Main Library,high,High energy consumption (2.21x higher than hourly average) observed at the current time with normal occupancy.,Investigate possible causes for increased energy consumption and implement corrective measures as necessary.
